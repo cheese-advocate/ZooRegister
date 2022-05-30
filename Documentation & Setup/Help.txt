@@ -1,0 +1,25 @@
+Client:
+
+	Regular:
+		
+		You can type in "Search Bar" (located at the top left) to enter what you wish to search for. Use the "Search Category" drop-down menu (located at the top right) to select whether you are searching for animal names, or species names. When Ready, press the "Search" button between the "Search Bar" and the "Search Category" menu to search the database for everything that matches the text you typed based on the search category you selected.
+		
+		If nothing matches what you searched for, a message to the right of the "Search Results" table (located from the bottom left almost to the top right) will indicate that to you.
+		
+		If you leave the "Search Bar" blank when you click on the "Search" button, All animals will be shown in the "Search Results" table.
+		
+		If you wish to modify the database records, you need administrator credentials. Clicking on the "Modify Records" button will prompt for an administrator username and password, and bring you to the database modification menu, provided you enter valid credentials.
+		
+		When Exiting or closing the application, you will be prompted to either exit, minimise, or cancel the operation.
+		
+	Administrator:
+		
+		Use the tabs near the top to select which table you wish to interact with. Inside each tab you may view the table's records, select and delete records, or insert new records after entering the new record's data in the provided text fields.
+		
+		You can close the frame or click on the "Exit" button at any time to close the administrator menu and return to the regular menu.
+	
+Server:
+	
+	Administrator credentials are required to start up or shut down the server. If you click on either the "Start Up" or "Shut Down" buttons you will be prompted to enter administrator credentials before you can start up the server.
+	
+	You can only exit the application when the server has shut down.
